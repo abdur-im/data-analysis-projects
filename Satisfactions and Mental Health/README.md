@@ -1,8 +1,3 @@
----
-title: "Satisfactions and Mental Health"
-output: github_document
----
-
 # Satisfactions and Mental Health
 
 ## Table of Contents
