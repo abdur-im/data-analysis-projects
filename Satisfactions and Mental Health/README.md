@@ -9,7 +9,7 @@
 - [Full Report](#full-report)
 
 ## Introduction
-This project was completed in collaboration with a team from the University of Toronto for the course STA258. For comprehensive details about the collaborative nature of this work, please refer to the project [PDF 'Life_Satisfactions_and_Mental_Health.pdf'](Life_Satisfactions_and_Mental_Health.pdf).
+This project was completed in collaboration with a team from the University of Toronto for the course STA258H5 S - Statistics with Applied Probability. For comprehensive details about the collaborative nature of this work, please refer to the project [PDF 'Life_Satisfactions_and_Mental_Health.pdf'](Life_Satisfactions_and_Mental_Health.pdf).
 
 Mental health issues among youth are a global concern. This investigative study delves into the relationships between various life satisfaction aspects and perceived mental health among Canadian youth. The intention behind this analysis is to understand which areas of life satisfaction (like housing, body image, etc.) most impact the mental well-being of these individuals.
 
@@ -25,11 +25,13 @@ The main dataset used for the analysis was the Canadian Community Health Survey 
 These variables were analyzed in relation to perceived mental health, and the influence of demographic factors like gender and household income on these relationships was also considered.
 
 ## Discussion and Results
-Visualizations such as bar plots and contingency tables were utilized to investigate associations. Key findings include:
+Visualizations such as clustered bar charts and contingency tables were utilized to investigate associations. Key findings include:
 
-1. Satisfaction with body image has a noticeable impact on perceived mental health.
-2. Gender seems to moderate the relationship between body image satisfaction and perceived mental health.
-3. Financial satisfaction's influence on mental health appears to be further nuanced by household income.
+1. An individual's perception of their mental well-being is associated with their satisfaction levels pertaining to housing, body image, financial circumstances, interpersonal relationships, and self-worth.
+
+2. In regards to various household incomes, we observed a notable trend: As stated income increased, the correlation between satisfaction (be it housing or financial status) and perceived mental health became increasingly pronounced.
+
+3. Segmenting our data by gender revealed interesting findings. Both females and males exhibited a visible correlation between positive mental health and their contentment with body image, self-assessment, and relational bonds. Intriguingly, this correlation was more robust among the male sample across these satisfaction dimensions.
 
 ## Limitations
 While our analysis provides some interesting insights, it's crucial to remember that the CCHS dataset, like many surveys, has limitations. For instance:
