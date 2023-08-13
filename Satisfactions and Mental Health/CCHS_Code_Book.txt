@@ -1,0 +1,2013 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                          CCHS 2017-2018: annual component
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      CCHS 2017-2018: annual component                                  Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      ALC_015            Drank alcohol - frequency - 12 mo                   1
+      CIH_005            Did something to improve health - 12 mo             1
+      CIH_015            Thinks should do something to improve health        1
+      CIH_020            Most important thing to do to improve health        2
+      CIHG010            Most important change to improve health             2
+      CMH_005            Consulted mental health professional - 12 mo        3
+      CMH_015A           Consulted mental health professional - family do    3
+      CMH_015B           Consulted mental health professional - psychiatr    3
+      CMH_015C           Consulted mental health professional - psycholog    4
+      CMH_015D           Consulted mental health professional - nurse        4
+      CMH_015E           Consulted mental health professional - social wo    4
+      depdvsev           Depression scale - severity of depression - (D)     5
+      dhhdglvg           Living / family arrangement of selected responde    5
+      dhhgage            Age                                                 6
+      dhhgms             Marital status                                      6
+      DHH_OWN            Dwelling ownership - own or rent                    7
+      DHH_SEX            Sex                                                 7
+      drgdvyac           Illicit drug use - 12 mo (excluding "just once"     7
+      EHG2DVR3           Highest level of education - respondent, 3 level    8
+      fdcdvcah           Chooses / avoids certain foods because of health    8
+      FGU_015A           Used CFG - to choose foods                          8
+      fscdvafs           Food security - adult status - (D)                  9
+      fvcdvgdt           Grouping of total daily consumption - fruits and    9
+      GEN_005            Perceived health                                    9
+      GEN_015            Perceived mental health                            10
+      GEN_020            Perceived life stress                              10
+      GEN_025            Perceived stress at work                           11
+      GEN_030            Sense of belonging to local community              11
+      gendvswl           Satisfaction with life in general - (D)            12
+      GEO_PRV            Province of residence of respondent                12
+      incdghh            Total household income - all sources - (D)         13
+      incdgper           Personal income - all sources - (D)                13
+      lbfdvpft           Full-time / part-time working status (for total    14
+      MAC_010            Worked at job / business - 12 mo                   14
+      MAC_015            Currently attending school / college / CEGEP / u   14
+      MACG005            Main activity - last week                          15
+      MACG020            Student status                                     15
+      paadvacv           Physical activity indicator - (D)                  15
+      paadvdys           Num of days - physically active - 7 d - (D)        16
+      SBE_005            Time sitting / lying watching screen - school /    16
+      SBE_010            Time sitting / lying watching screen - not schoo   16
+      SDC_015            Aboriginal identity - First nations / M?tis / In   17
+      SDC_025            Knowledge of official languages                    17
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page ii
+
+
+      item                                                                page
+
+      sdcdgcb            Country of birth - grouped - (D)                   17
+      sdcdvimm           Immigrant flag - (D)                               18
+      sdcdgres           Length of time in Canada since immigration - (D)   18
+      sdcdgcgt           Cultural / racial background - (D)                 18
+      sdcdglhm           Language(s) spoken most often at home - (D)        19
+      sdcdvfls           First official language spoken - (D)               19
+      SLP_010            Trouble going to sleep or staying asleep - frequ   20
+      SLPG005            Number of hours per night usually spent sleeping   20
+      SMK_005            Type of smoker (daily / occasionally / not at al   21
+      SPS_005            Relationships - people to depend on for help       21
+      SPS_010            Relationships - people who enjoy same social act   21
+      SPS_015            Relationships - sense of emotional security and    22
+      SPS_020            Relationships - someone to talk to about importa   22
+      SPS_025            Relationships - competence and skill are recogni   23
+      SPS_030            Relationships - trustworthy person for advice      23
+      SPS_035            Relationships - part of a group who share attitu   24
+      SPS_040            Relationships - strong emotional bond with a lea   24
+      SPS_045            Relationships - talents and abilities are admire   25
+      SPS_050            Relationships - people to count on in an emergen   25
+      SWL_005            Satisfaction - job / main activity                 26
+      SWL_010            Satisfaction - leisure activities                  26
+      SWL_015            Satisfaction - financial situation                 27
+      SWL_020            Satisfaction - with oneself                        27
+      SWL_025            Satisfaction - body image                          28
+      SWL_030            Satisfaction - relationships with family members   28
+      SWL_035            Satisfaction - relationships with friends          29
+      SWL_040            Satisfaction - housing                             29
+      SWL_045            Satisfaction - neighbourhood                       30
+      UCN_005            Unmet health care needs - self-perceived - 12 mo   30
+      UCN_010A           Unmet health care needs - not available in area    30
+      UCN_010G           Unmet health care needs - cost                     31
+      UCN_020            Actively tried to obtain health care needed        31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 1
+
+
+      ALC_015            Drank alcohol - frequency - 12 mo
+
+           VALUE  LABEL
+               1  Less than once a month
+               2  Once a month
+               3  2 to 3 times a month
+               4  Once a week
+               5  2 to 3 times a week
+               6  4 to 6 times a week
+               7  Every day
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/1
+
+      ________________________________________________________________________
+
+      CIH_005            Did something to improve health - 12 mo
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/3
+
+      ________________________________________________________________________
+
+      CIH_015            Thinks should do something to improve health
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/5
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 2
+
+
+      CIH_020            Most important thing to do to improve health
+
+           VALUE  LABEL
+               1  Start / Increase exercise, sports / physical activity
+               2  Lose weight
+               3  Change diet / improve eating habits
+               4  Quit smoking / reduce amount smoked
+               5  Drink less alcohol
+               6  Reduce stress level
+               7  Receive medical treatment
+               8  Take vitamins
+               9  Other
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/7
+
+      ________________________________________________________________________
+
+      CIHG010            Most important change to improve health
+
+           VALUE  LABEL
+               1  Increased exercise, sports / physical activity
+               2  Lost weight
+               3  Changed diet / improved eating habits
+               4  Quit smoking / reduced amount smoked
+               5  Reduced stress level
+               6  Received medical treatment
+               7  Took vitamins
+               8  Other
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/9
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 3
+
+
+      CMH_005            Consulted mental health professional - 12 mo
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/11
+
+      ________________________________________________________________________
+
+      CMH_015A           Consulted mental health professional - family doctor
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/13
+
+      ________________________________________________________________________
+
+      CMH_015B           Consulted mental health professional - psychiatrist
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/15
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 4
+
+
+      CMH_015C           Consulted mental health professional - psychologist
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/17
+
+      ________________________________________________________________________
+
+      CMH_015D           Consulted mental health professional - nurse
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/19
+
+      ________________________________________________________________________
+
+      CMH_015E           Consulted mental health professional - social worker
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/21
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 5
+
+
+      depdvsev           Depression scale - severity of depression - (D)
+
+           VALUE  LABEL
+               0  No depression
+               1  Minimal depression
+               2  Mild depression
+               3  Moderate depression
+               4  Moderately severe depression
+               5  Severe depression
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/23
+
+      ________________________________________________________________________
+
+      dhhdglvg           Living / family arrangement of selected respondent - (D)
+
+           VALUE  LABEL
+               1  Unattached individual living alone.
+               2  Unattached individual living with others.
+               3  Individual living with spouse/partner.
+               4  Parent living with spouse/partner and child(ren).
+               5  Single parent living with children.
+               6  Child living with a single parent with or without siblings.
+               7  Child living with two parents with or without siblings
+               8  Other
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/25
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 6
+
+
+      dhhgage            Age
+
+           VALUE  LABEL
+               1  Age between 12 and 14
+               2  Age between 15 and 17
+               3  Age between 18 and 19
+               4  Age between 20 and 24
+               5  Age between 25 and 29
+               6  Age between 30 and 34
+               7  Age between 35 and 39
+               8  Age between 40 and 44
+               9  Age between 45 and 49
+              10  Age between 50 and 54
+              11  Age between 55 and 59
+              12  Age between 60 and 64
+              13  Age between 65 and 69
+              14  Age between 70 and 74
+              15  Age between 75 and 79
+              16  Age 80 and older
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Record/columns: 1/27-28
+
+      ________________________________________________________________________
+
+      dhhgms             Marital status
+
+           VALUE  LABEL
+               1  Married
+               2  Common-law
+               3  Widowed/Divorced/Separated
+               4  Single
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/30
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 7
+
+
+      DHH_OWN            Dwelling ownership - own or rent
+
+           VALUE  LABEL
+               1  Owned by member of hhld, even if it is still being paid for
+               2  Rented, even if no cash rent is paid
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/32
+
+      ________________________________________________________________________
+
+      DHH_SEX            Sex
+
+           VALUE  LABEL
+               1  Male
+               2  Female
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Record/column: 1/34
+
+      ________________________________________________________________________
+
+      drgdvyac           Illicit drug use - 12 mo (excluding "just once" marijuana) - (D)
+
+           VALUE  LABEL
+               1  Has used drugs - 12 mo (excl marijuana "just once")
+               2  Has not used drugs - 12 mo (excl marijuana "just once")
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/36
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 8
+
+
+      EHG2DVR3           Highest level of education - respondent, 3 levels - (D)
+
+           VALUE  LABEL
+               1  Less than secondary school graduation
+               2  Secondary school graduation, no post-secondary education
+               3  Post-secondary certificate diploma or univ degree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/38
+
+      ________________________________________________________________________
+
+      fdcdvcah           Chooses / avoids certain foods because of health concerns - (D)
+
+           VALUE  LABEL
+               1  Choose/avoids foods - health concerns
+               2  Does not choose/avoid foods - health concerns
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/40
+
+      ________________________________________________________________________
+
+      FGU_015A           Used CFG - to choose foods
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/42
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                  Page 9
+
+
+      fscdvafs           Food security - adult status - (D)
+
+           VALUE  LABEL
+               0  Food secure
+               1  Moderately food insecure
+               2  Severely food insecure
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/44
+
+      ________________________________________________________________________
+
+      fvcdvgdt           Grouping of total daily consumption - fruits and vegetables - (D)
+
+           VALUE  LABEL
+               1  Eats fruits and vegetables less than 5 times per day
+               2  Eats fruits and vegetables between 5 and 10 times per day
+               3  Eats fruits and vegetables more than 10 times per day
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/46
+
+      ________________________________________________________________________
+
+      GEN_005            Perceived health
+
+           VALUE  LABEL
+               1  Excellent
+               2  Very good
+               3  Good
+               4  Fair
+               5  Poor
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/48
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 10
+
+
+      GEN_015            Perceived mental health
+
+           VALUE  LABEL
+               1  Excellent
+               2  Very good
+               3  Good
+               4  Fair
+               5  Poor
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/50
+
+      ________________________________________________________________________
+
+      GEN_020            Perceived life stress
+
+           VALUE  LABEL
+               1  Not at all stressful
+               2  Not very stressful
+               3  A bit stressful
+               4  Quite a bit stressful
+               5  Extremely stressful
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 11
+
+
+      GEN_025            Perceived stress at work
+
+           VALUE  LABEL
+               1  Not at all stressful
+               2  Not very stressful
+               3  A bit stressful
+               4  Quite a bit stressful
+               5  Extremely stressful
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/54
+
+      ________________________________________________________________________
+
+      GEN_030            Sense of belonging to local community
+
+           VALUE  LABEL
+               1  Very strong
+               2  Somewhat strong
+               3  Somewhat weak
+               4  Very weak
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 12
+
+
+      gendvswl           Satisfaction with life in general - (D)
+
+           VALUE  LABEL
+               1  Very Satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very Dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/58
+
+      ________________________________________________________________________
+
+      GEO_PRV            Province of residence of respondent
+
+           VALUE  LABEL
+              10  NEWFOUNDLAND AND LABRADOR
+              11  PRINCE EDWARD ISLAND
+              12  NOVA SCOTIA
+              13  NEW BRUNSWICK
+              24  quebec
+              35  ontario
+              46  manitoba
+              47  saskatchewan
+              48  alberta
+              59  BRITISH COLUMBIA
+              60  yukon
+              61  NORTHWEST TERRITORIES
+              62  nunavut
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Record/columns: 1/60-61
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 13
+
+
+      incdghh            Total household income - all sources - (D)
+
+           VALUE  LABEL
+               1  No income or less than $20,000
+               2  $20,000 to $39,999
+               3  $40,000 to $59,999
+               4  $60,000 to $79,999
+               5  $80,000 or more
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/63
+
+      ________________________________________________________________________
+
+      incdgper           Personal income - all sources - (D)
+
+           VALUE  LABEL
+               1  No income or income loss
+               2  Less than $20,000
+               3  $20,000 to $39,999
+               4  $40,000 to $59,999
+               5  $60,000 to $79,999
+               6  $80,000 or more
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 14
+
+
+      lbfdvpft           Full-time / part-time working status (for total usual hours) - (D)
+
+           VALUE  LABEL
+               1  Full-time
+               2  Part-time
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/67
+
+      ________________________________________________________________________
+
+      MAC_010            Worked at job / business - 12 mo
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/69
+
+      ________________________________________________________________________
+
+      MAC_015            Currently attending school / college / CEGEP / university
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/71
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 15
+
+
+      MACG005            Main activity - last week
+
+           VALUE  LABEL
+               1  Working or vacation (from paid work)
+               2  Looking for paid work
+               3  Going to school (including vacation from school)
+               4  Retired
+               5  Long-term illness
+               6  Other
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/73
+
+      ________________________________________________________________________
+
+      MACG020            Student status
+
+           VALUE  LABEL
+               1  A full-time student or both full-time and part-time
+               2  Part-time student
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/75
+
+      ________________________________________________________________________
+
+      paadvacv           Physical activity indicator - (D)
+
+           VALUE  LABEL
+               1  Physically active at / above recommended level from CPAG
+               2  Physically active below recommended level from CPAG
+               3  No physical activity minutes reported
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/77
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 16
+
+
+      paadvdys           Num of days - physically active - 7 d - (D)
+
+           VALUE  LABEL
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/79
+
+      ________________________________________________________________________
+
+      SBE_005            Time sitting / lying watching screen - school / workday - 7d
+
+           VALUE  LABEL
+               1  2 hours or less per day
+               2  More than 2 hours but less than 4 hours
+               3  4 hours to less than 6 hours
+               4  6 hours to less than 8 hours
+               5  8 hours or more per day
+               6  Was not at work or school
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/81
+
+      ________________________________________________________________________
+
+      SBE_010            Time sitting / lying watching screen - not school / workday - 7d
+
+           VALUE  LABEL
+               1  2 hours or less per day
+               2  More than 2 hours but less than 4 hours
+               3  4 hours to less than 6 hours
+               4  6 hours to less than 8 hours
+               5  8 hours or more per day
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/83
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 17
+
+
+      SDC_015            Aboriginal identity - First nations / M?tis / Inuk (Inuit)
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/85
+
+      ________________________________________________________________________
+
+      SDC_025            Knowledge of official languages
+
+           VALUE  LABEL
+               1  English only
+               2  French only
+               3  Both English and French
+               4  Neither English nor French
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/87
+
+      ________________________________________________________________________
+
+      sdcdgcb            Country of birth - grouped - (D)
+
+           VALUE  LABEL
+               1  Canada
+               2  Other
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/89
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 18
+
+
+      sdcdvimm           Immigrant flag - (D)
+
+           VALUE  LABEL
+               1  Landed immigrant / non-permanent resident
+               2  Non-immigrant (Canadian born)
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/91
+
+      ________________________________________________________________________
+
+      sdcdgres           Length of time in Canada since immigration - (D)
+
+           VALUE  LABEL
+               1  Length of time in Canada since immigration 0 - 9 years
+               2  Length of time in Canada since immigration 10 - 121 years
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/93
+
+      ________________________________________________________________________
+
+      sdcdgcgt           Cultural / racial background - (D)
+
+           VALUE  LABEL
+               1  White
+               2  Non-white (Aboriginal or Other Visible Minority)
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/95
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 19
+
+
+      sdcdglhm           Language(s) spoken most often at home - (D)
+
+           VALUE  LABEL
+               1  English (with or without language other than French)
+               2  French (with or without language other than English)
+               3  English and French (with or without other language)
+               4  Neither English nor French (Other)
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/97
+
+      ________________________________________________________________________
+
+      sdcdvfls           First official language spoken - (D)
+
+           VALUE  LABEL
+               1  English
+               2  French
+               3  English and French
+               4  Neither English nor French
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 20
+
+
+      SLP_010            Trouble going to sleep or staying asleep - frequency
+
+           VALUE  LABEL
+               1  Never
+               2  Rarely
+               3  Sometimes
+               4  Most of the time
+               5  All of the time
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/101
+
+      ________________________________________________________________________
+
+      SLPG005            Number of hours per night usually spent sleeping
+
+           VALUE  LABEL
+               1  Under 3 hours
+               2  3 hours to less than 4 hours
+               3  4 hours to less than 5 hours
+               4  5 hours to less than 6 hours
+               5  6 hours to less than 7 hours
+               6  7 hours to less than 8 hours
+               7  8 hours to less than 9 hours
+               8  9 hours to less than 10 hours
+               9  10 hours to less than 11 hours
+              10  11 hours to less than 12 hours
+              11  12 hours or more
+              96  Valid skip
+              97  Don't know
+              98  Refusal
+              99  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/columns: 1/103-104
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 21
+
+
+      SMK_005            Type of smoker (daily / occasionally / not at all) - presently
+
+           VALUE  LABEL
+               1  Daily
+               2  Occasionally
+               3  Not at all
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/106
+
+      ________________________________________________________________________
+
+      SPS_005            Relationships - people to depend on for help
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/108
+
+      ________________________________________________________________________
+
+      SPS_010            Relationships - people who enjoy same social activities
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/110
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 22
+
+
+      SPS_015            Relationships - sense of emotional security and wellbeing
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/112
+
+      ________________________________________________________________________
+
+      SPS_020            Relationships - someone to talk to about important decisions
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/114
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 23
+
+
+      SPS_025            Relationships - competence and skill are recognized
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/116
+
+      ________________________________________________________________________
+
+      SPS_030            Relationships - trustworthy person for advice
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/118
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 24
+
+
+      SPS_035            Relationships - part of a group who share attitudes and beliefs
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/120
+
+      ________________________________________________________________________
+
+      SPS_040            Relationships - strong emotional bond with a least one person
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/122
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 25
+
+
+      SPS_045            Relationships - talents and abilities are admired
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/124
+
+      ________________________________________________________________________
+
+      SPS_050            Relationships - people to count on in an emergency
+
+           VALUE  LABEL
+               1  Strongly agree
+               2  Agree
+               3  Disagree
+               4  Strongly disagree
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/126
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 26
+
+
+      SWL_005            Satisfaction - job / main activity
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/128
+
+      ________________________________________________________________________
+
+      SWL_010            Satisfaction - leisure activities
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/130
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 27
+
+
+      SWL_015            Satisfaction - financial situation
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/132
+
+      ________________________________________________________________________
+
+      SWL_020            Satisfaction - with oneself
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/134
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 28
+
+
+      SWL_025            Satisfaction - body image
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/136
+
+      ________________________________________________________________________
+
+      SWL_030            Satisfaction - relationships with family members
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/138
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 29
+
+
+      SWL_035            Satisfaction - relationships with friends
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/140
+
+      ________________________________________________________________________
+
+      SWL_040            Satisfaction - housing
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/142
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 30
+
+
+      SWL_045            Satisfaction - neighbourhood
+
+           VALUE  LABEL
+               1  Very satisfied
+               2  Satisfied
+               3  Neither satisfied nor dissatisfied
+               4  Dissatisfied
+               5  Very dissatisfied
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/144
+
+      ________________________________________________________________________
+
+      UCN_005            Unmet health care needs - self-perceived - 12 mo
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/146
+
+      ________________________________________________________________________
+
+      UCN_010A           Unmet health care needs - not available in area
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/148
+
+
+
+
+
+                                   June 17, 2022
+
+
+
+      CCHS 2017-2018: annual component                                 Page 31
+
+
+      UCN_010G           Unmet health care needs - cost
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/150
+
+      ________________________________________________________________________
+
+      UCN_020            Actively tried to obtain health care needed
+
+           VALUE  LABEL
+               1  Yes
+               2  No
+               6  Valid skip
+               7  Don't know
+               8  Refusal
+               9  Not stated
+
+           Data type: numeric
+           Missing-data code: .
+           Record/column: 1/152
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   June 17, 2022

@@ -14,7 +14,9 @@ This project was completed in collaboration with a team from the University of T
 Mental health issues among youth are a global concern. This investigative study delves into the relationships between various life satisfaction aspects and perceived mental health among Canadian youth. The intention behind this analysis is to understand whether areas of life satisfaction (like housing, body image, etc.) impact the mental well-being of these individuals.
 
 ## Methodology
-The main dataset used for the analysis was the Canadian Community Health Survey (CCHS) 2017-2018. Our study focused on analyzing the relationships between different aspects of life satisfaction and their perceived mental health. Specifically, we looked into:
+The primary dataset used for the analysis was the Canadian Community Health Survey (CCHS) 2017-2018. It can be accessed [here](CCHS.csv). The corresponding [codebook](CCHS_Code_Book.txt) and [selected variables](CCHS_Selected_Variables.pdf) have also been included in the repository for comprehensive understanding. 
+
+Our study focused on analyzing the relationships between different aspects of life satisfaction and their perceived mental health. Specifically, we looked into:
 
 - Satisfaction with housing
 - Satisfaction with friends
@@ -22,7 +24,7 @@ The main dataset used for the analysis was the Canadian Community Health Survey 
 - Satisfaction with body image
 - Satisfaction with financial situation
 
-These variables were analyzed in relation to perceived mental health, and the influence of demographic factors like gender and household income on these relationships was also considered.
+These variables were analyzed in relation to perceived mental health, and the influence of demographic factors like gender and household income on these relationships was also considered. We utilized R libraries such as tidyverse, janitor, etc., for data processing. The data was cleaned by converting character columns to numeric, filtering data to focus on youth aged 15-29, and removing rows with missing values in key columns. In addition, key variables were categorized for clearer interpretation, such as Perceived Mental Health and Gender.
 
 ## Discussion and Results
 Visualizations such as clustered bar charts and contingency tables were utilized to investigate associations. Key findings include:
