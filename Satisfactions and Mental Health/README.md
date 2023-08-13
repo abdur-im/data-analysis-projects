@@ -14,7 +14,7 @@ This project was completed in collaboration with a team from the University of T
 Mental health issues among youth are a global concern. This investigative study delves into the relationships between various life satisfaction aspects and perceived mental health among Canadian youth. The intention behind this analysis is to understand whether areas of life satisfaction (like housing, body image, etc.) impact the mental well-being of these individuals.
 
 ## Methodology
-The primary dataset used for the analysis was the Canadian Community Health Survey (CCHS) 2017-2018. It can be accessed [here](CCHS.csv). The corresponding [codebook](CCHS_Code_Book.txt) and [selected variables](CCHS_Selected_Variables.pdf) have also been included in the repository for comprehensive understanding. 
+The primary dataset used for the analysis was the Canadian Community Health Survey (CCHS) 2017-2018. It can be accessed [here](CCHS.csv). Please note that due to the large size of the file, the viewer may need to download the CSV file locally. The corresponding [codebook](CCHS_Code_Book.txt) and [selected variables](CCHS_Selected_Variables.pdf) have also been included in the repository for comprehensive understanding. 
 
 Our study focused on analyzing the relationships between different aspects of life satisfaction and their perceived mental health. Specifically, we looked into:
 
