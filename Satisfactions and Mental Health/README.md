@@ -1,4 +1,4 @@
-# Satisfactions and Mental Health
+# Life Satisfactions and Mental Health
 
 ## Table of Contents
 - [Introduction](#introduction)
