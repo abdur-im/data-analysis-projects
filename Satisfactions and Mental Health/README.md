@@ -11,7 +11,7 @@
 ## Introduction
 This project was completed in collaboration with a team from the University of Toronto for the course STA258H5 S - Statistics with Applied Probability. For comprehensive details about the collaborative nature of this work, please refer to the project [PDF 'Life_Satisfactions_and_Mental_Health.pdf'](Life_Satisfactions_and_Mental_Health.pdf).
 
-Mental health issues among youth are a global concern. This investigative study delves into the relationships between various life satisfaction aspects and perceived mental health among Canadian youth. The intention behind this analysis is to understand which areas of life satisfaction (like housing, body image, etc.) most impact the mental well-being of these individuals.
+Mental health issues among youth are a global concern. This investigative study delves into the relationships between various life satisfaction aspects and perceived mental health among Canadian youth. The intention behind this analysis is to understand whether areas of life satisfaction (like housing, body image, etc.) impact the mental well-being of these individuals.
 
 ## Methodology
 The main dataset used for the analysis was the Canadian Community Health Survey (CCHS) 2017-2018. Our study focused on analyzing the relationships between different aspects of life satisfaction and their perceived mental health. Specifically, we looked into:
