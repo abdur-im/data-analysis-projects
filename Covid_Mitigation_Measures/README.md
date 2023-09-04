@@ -85,9 +85,10 @@ Data cleaning and preprocessing were carried out using SQL. The specific details
 
 
 ### Python Analysis:
-EDA was conducted using Python, followed by merging datasets and constructing time series data. Trend and correlation analyses were then performed.
+EDA was conducted using Python, followed by merging datasets and constructing time series data. Trend and correlation analyses were then performed using statistical tools and heatmaps. The detailed code and the visual outputs are displayed in the file [COVID_Mitigation_Measures.ipynb](https://github.com/abdur-im/data-analysis-projects/blob/main/Covid_Mitigation_Measures/COVID_Mitigation_Measures.ipynb).
 
 ### Tableau Visualization:
+Data visualizations using the dashboard, [The Global COVID-19 Landscape: Metrics and Measures](https://public.tableau.com/views/TheGlobalCOVID-19LandscapeMetricsandMeasures/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link), highlights the following: 
    - World Map: Displaying case spread and intensity.
    - Pie Charts: Distribution of various mitigation strategies across regions.
    - Time Series Analysis: Visualizing case growth over time juxtaposed with the implementation of mitigation strategies.
