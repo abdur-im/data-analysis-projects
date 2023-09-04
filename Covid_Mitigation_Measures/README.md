@@ -30,9 +30,9 @@ This project aims to analyze the impact of various COVID-19 mitigation strategie
 
 ## Data Source
 
-The following raw CSV files can be found [here]().
+The following raw CSV files can be found [here](https://drive.google.com/drive/folders/1dsFms9qKWN2rOHImApFVixYGDkPOaaj5?usp=sharing).
 
-### Kaggle:
+### [Kaggle](https://www.kaggle.com/datasets/pranjalverma08/coronavirus-covid19-indepth-dataset?select=owid-covid-data+%281%29.csv):
    - covid_stringency_index.csv
    - internal_movement_covid.csv
    - international_travel_covid.csv
@@ -41,10 +41,11 @@ The following raw CSV files can be found [here]().
    - stay_at_home_covid.csv
    - workplace_closures_covid.csv
 
-### Our World in Data:
+### [Our World in Data](https://ourworldindata.org/covid-cases):
    - owid_covid_data.csv
 
-The cleaned CSV files, `mitigation_strategies_covid.csv` and `owid_covid_data_revised.csv`, can be found [here](). 
+
+The cleaned CSV files, `mitigation_strategies_covid.csv` and `owid_covid_data_revised.csv`, can be found [here](https://drive.google.com/drive/folders/1mdtuJZRBXy27vSetv1_IAlE8X74G69YZ?usp=sharing). 
 
 _For a detailed breakdown of the variables in the cleaned CSV files, consult the [codebook](#)._
 
