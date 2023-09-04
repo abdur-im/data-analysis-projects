@@ -75,13 +75,13 @@ This approach does exclude the pandemic's complete timeline and might omit key n
 
 ### Data Credibility:
 
-For ensure the credibility of the data, the file `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data) was utilized.
+To ensure the credibility of the data, the file `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data) was utilized.
 
 
 ## Methodology
 
 ### SQL Preprocessing:
-Data cleaning and preprocessing were carried out using SQL. 
+Data cleaning and preprocessing were carried out using SQL. The specific details of how the data was cleaned and preprocessed can be found in the file [sql_processes.md](https://github.com/abdur-im/data-analysis-projects/blob/main/Covid_Mitigation_Measures/sql_processes.md).
 
 
 ### Python Analysis:
