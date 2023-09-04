@@ -191,7 +191,7 @@ SELECT * FROM mitigation_strategies_covid WHERE day BETWEEN '2020-02-01' AND '20
 SELECT * FROM owid_covid_data WHERE day BETWEEN '2020-02-01' AND '2020-08-31' ORDER BY country ASC, day ASC;
 ```
 
-The raw and cleaned CSV files can be found in the [COVID-19 Datasets folder](TODO).
+The raw and cleaned CSV files can be found in the folder [Covid_Mitigation_Measures Datasets](https://drive.google.com/drive/folders/1Vy46-p5e1UwxxGeiAEJUmGANAziTDBZU?usp=sharing).
 
 ---
 
