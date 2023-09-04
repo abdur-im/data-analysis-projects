@@ -78,7 +78,7 @@ EXCEPT
 
 ### 3.4. Addressing NULLs and Date Gaps
 
-NULL values and date gaps were addressed using various methods depending on the nature of the data. Countries missing over 10% of their data were excluded. For instance, all `Liechtenstein` records were discarded due to significant data gaps. This was achieved in `covid_stringency_index` using:
+NULL values and date gaps were addressed using various methods depending on the nature of the data. Countries missing over 10% of their data were excluded. For instance, all records related to the country Liechtenstein were discarded due to significant data gaps. This was achieved in `covid_stringency_index` using:
 
 ```
 DELETE FROM covid_stringency_index
