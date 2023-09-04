@@ -171,17 +171,17 @@ LEFT JOIN workplace_closures_covid g ON a.code = g.code AND a.day = g.day;
 ```
 
 In particular, the above query combined data from the following CSV files: 
-`covid_stringency_index.csv`
-`internal_movement_covid.csv`
-`international_travel_covid.csv`
-`public_gathering_rules_covid.csv`
-`school_closures_covid.csv`
-`stay_at_home_covid.csv`
+`covid_stringency_index.csv`;
+`internal_movement_covid.csv`;
+`international_travel_covid.csv`;
+`public_gathering_rules_covid.csv`;
+`school_closures_covid.csv`;
+`stay_at_home_covid.csv`;
 `workplace_closures_covid.csv`
 
 ## 5. Exporting the Final Datasets
 
-After all cleaning and transformations, the combined data table `mitigation_strategies_covid` and the table `owid_covid_data` were extracted as CSV files. The following queries were used to ensure an appropriate ordering of the columns before being exported for further analysis:
+After all cleaning and transformations, the combined data table `mitigation_strategies_covid` and the table `owid_covid_data` were extracted as CSV files. The latter table was renamed as `owid_covid_data_revised` for distinction. The following queries were used to ensure an appropriate ordering of the columns before being exported for further analysis:
 
 ```
 SELECT * FROM mitigation_strategies_covid WHERE day BETWEEN '2020-02-01' AND '2020-08-31' ORDER BY country ASC, day ASC;
