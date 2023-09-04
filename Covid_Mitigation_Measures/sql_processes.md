@@ -130,7 +130,7 @@ WHERE s.day IS NULL
 ORDER BY d.country, d.series_date;
 ```
 
-Similarly, it was found that `public_gathering_rules_covid` had a missing data row for the country Lebanon on the day 21 August 2020. Data cross-validation with the dataset `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data), allowed us manually insert these missing data points:
+Similarly, it was found that `public_gathering_rules_covid` had a missing data row for the country Lebanon on the day 21 August 2020. Data was manually compared with the dataset `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data). This allowed us to insert these missing data points:
 
 ```
 INSERT INTO stay_at_home_covid (country, code, day, stay_home_requirements)

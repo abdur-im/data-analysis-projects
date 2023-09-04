@@ -59,7 +59,7 @@ The early days of the pandemic showed limited global spread. Out of 185 countrie
 
 ### Data Range Decision:
 
-The scope was limited to the period between 2020-02-01 and 2020-08-31 to capture the pandemic's growth phase.
+The scope was limited to the period between 01 February 2020 and 31 August 2020 to capture the pandemic's growth phase.
 
 ### Country Exclusion Criteria:
 
