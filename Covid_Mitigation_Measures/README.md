@@ -44,7 +44,7 @@ The following raw CSV files can be found [here]().
 ### Our World in Data:
    - owid_covid_data.csv
 
-The cleaned CSV files, `` and ``, can be found [here](). 
+The cleaned CSV files, `mitigation_strategies_covid.csv` and `owid_covid_data_revised.csv`, can be found [here](). 
 
 _For a detailed breakdown of the variables in the cleaned CSV files, consult the [codebook](#)._
 
