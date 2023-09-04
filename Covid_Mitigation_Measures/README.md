@@ -75,7 +75,7 @@ This approach does exclude the pandemic's complete timeline and might omit key n
 
 ### Data Credibility:
 
-To ensure the credibility of the data, the file `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data) was utilized.
+Credibility of the data was ensured using the file `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data).
 
 
 ## Methodology
