@@ -15,7 +15,7 @@
 
 ## Description
 
-This project aims to analyze the impact of various COVID-19 mitigation strategies on the trend of cases and deaths across different countries and regions. By examining specific mitigation strategies' correlation with growth rates of cases and deaths, we strive to understand the strategies' effectiveness in controlling the virus spread during the initial stages of the pandemic.
+This project aims to analyze the impact of various COVID-19 mitigation strategies on the trend of cases and deaths across different countries and regions during the initial stages of the pandemic. By examining specific mitigation strategies' correlation with growth rates of cases and deaths, we strive to understand the strategies' effectiveness in controlling the virus spread.
 
 ## Tools & Technologies
 
@@ -55,7 +55,7 @@ _For a detailed breakdown of the variables in the cleaned CSV files, consult the
 ### Initial Observations:
 The early days of the pandemic showed limited global spread. Out of 185 countries, only 23 had confirmed cases by January 2020.
 
-### Data Range Decision:
+### Data Range:
 
 The scope was limited to the period between 01 February 2020 and 31 August 2020 to capture the pandemic's growth phase. This data range was chosen to provide a clear view of the pandemic's critical growth phase, emphasizing data integrity and minimizing the influence of data gaps.
 
@@ -67,11 +67,11 @@ Countries missing data for more than 10% of the period were excluded to ensure r
 
 ### Limitations:
 
-This approach does exclude the pandemic's complete timeline and might omit key nations due to the strict data criterion.
+This approach does exclude the pandemic's complete timeline and might omit key nations due to the strict data criterion which may impact the findings.
 
 ### Data Credibility:
 
-Credibility of the data was ensured using the file `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data).
+The credibility of the data was ensured using the World Health Organization file `WHO-COVID-19-global-data.csv`, found [here](https://covid19.who.int/data).
 
 
 ## Methodology
