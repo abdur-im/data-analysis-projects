@@ -4,11 +4,10 @@
 
 - [Description](#description)
 - [Tools & Technologies](#tools--technologies)
-- [Raw Datasets Utilized](#raw-datasets-utilized)
+- [Data Source](#data-source)
 - [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
 - [Methodology](#methodology)
 - [Discussion & Results](#discussion--results)
-- [Limitations](#limitations)
 - [Challenges](#challenges)
 - [Suggested Improvements](#suggested-improvements)
 - [Conclusion](#conclusion)
@@ -89,7 +88,7 @@ Data visualization using the Tableau dashboard, [The Global COVID-19 Landscape: 
    - Pie Charts: Distribution of various mitigation strategies across regions.
    - Time Series Analysis: Visualizing and comparing the growth of cases and deaths over time among countries.
 
-## Discussion/Results
+## Discussion & Results
 
 ### World Map Analysis:
 Tableau's world map was employed to understand the geographical spread and intensity of cases.
