@@ -1,6 +1,6 @@
 # COVID-19 Mitigation Measures Codebook
 
-This codebook provides detailed information about the datasets used in the project `Impact of COVID-19 Mitigation Measures on Global Case Trends`.
+This codebook provides detailed information about the datasets used in the project `Impact of COVID-19 Mitigation Measures`.
 
 ## Dataset 1: Mitigation Strategies Covid
 
@@ -12,12 +12,12 @@ This codebook provides detailed information about the datasets used in the proje
 This dataset stores the impact of various mitigation strategies during the initial stages of COVID-19, specifically between 01 February 2020 and 31 August 2020.
 
 ### **Source:** 
-Data originated from the 'Coronavirus (COVID-19) In-depth Dataset' from Kaggle. [Link to Source](https://www.kaggle.com/datasets/pranjalverma08/coronavirus-covid19-indepth-dataset?select=owid-covid-data+%281%29.csv). Cross-validation was conducted with 'WHO-COVID-19-global-data.csv'. [Link to WHO Data](https://covid19.who.int/data).
+Data originated from the 'Coronavirus (COVID-19) In-depth Dataset' from Kaggle. [Link to Source](https://www.kaggle.com/datasets/pranjalverma08/coronavirus-covid19-indepth-dataset?select=owid-covid-data+%281%29.csv).
 
 ### **General Information:** 
 - **Date of Last Update:** 2021 (2 years ago from the current year)
 - **Number of Observations:** 35145 entries (excluding the header row)
-- **Related Documents:** Refer to the `sql_processes.md` for more details on the data cleaning process.
+- **Related Documents:** Refer to the [sql_processes.md](https://github.com/abdur-im/data-analysis-projects/blob/main/Covid_Mitigation_Measures/sql_processes.md) for more details on the data cleaning process.
 
 ## Variable Information
 
@@ -72,12 +72,12 @@ Data originated from the 'Coronavirus (COVID-19) In-depth Dataset' from Kaggle. 
 This dataset tracks total and new COVID-19 cases and deaths by country, as well as other demographic and economic metrics. The data spans from 01 February 2020 to 31 August 2020.
 
 ### **Source:** 
-Data is based on the `owid_covid_data.csv` from [Our World in Data](https://ourworldindata.org/covid-cases). Cross-validation was conducted with 'WHO-COVID-19-global-data.csv'. [Link to WHO Data](https://covid19.who.int/data).
+Data is based on the `owid_covid_data.csv` from [Our World in Data](https://ourworldindata.org/covid-cases). 
 
 ### **General Information:** 
 - **Date of Last Update:** Daily updates.
 - **Number of Observations:** 35145 entries (excluding the header row).
-- **Related Documents:** Refer to the `sql_processes.md` for more details on the data cleaning process.
+- **Related Documents:** Refer to the [sql_processes.md](https://github.com/abdur-im/data-analysis-projects/blob/main/Covid_Mitigation_Measures/sql_processes.md) for more details on the data cleaning process.
 
 ## Variable Information
 
