@@ -26,11 +26,9 @@ This project aims to analyze the impact of various COVID-19 mitigation strategie
   - NumPy
   - Pandas
   - Matplotlib
-- **Tableau**: Used for data visualization.
+- **Tableau**: Built a dashboard for data visualization.
 
 ## Data Source
-
-The following raw CSV files were utilized: 
 
 ### [Kaggle](https://www.kaggle.com/datasets/pranjalverma08/coronavirus-covid19-indepth-dataset?select=owid-covid-data+%281%29.csv)
    - `covid_stringency_index.csv`
@@ -45,7 +43,7 @@ The following raw CSV files were utilized:
    - `owid_covid_data.csv`
 
 
-The raw CSV files above and the cleaned CSV files, `mitigation_strategies_covid.csv` and `owid_covid_data_revised.csv`, can be found [here](https://drive.google.com/drive/folders/1mdtuJZRBXy27vSetv1_IAlE8X74G69YZ?usp=sharing). 
+The raw CSV files above and the cleaned CSV files, `mitigation_strategies_covid.csv` and `owid_covid_data_revised.csv`, can be found [here](https://drive.google.com/drive/folders/1Vy46-p5e1UwxxGeiAEJUmGANAziTDBZU?usp=sharing). 
 
 _For a detailed breakdown of the variables in the cleaned CSV files, consult the [codebook](https://github.com/abdur-im/data-analysis-projects/blob/main/Covid_Mitigation_Measures/codebook.md)._
 
@@ -59,15 +57,13 @@ The early days of the pandemic showed limited global spread. Out of 185 countrie
 
 ### Data Range Decision:
 
-The scope was limited to the period between 01 February 2020 and 31 August 2020 to capture the pandemic's growth phase.
+The scope was limited to the period between 01 February 2020 and 31 August 2020 to capture the pandemic's growth phase. This data range was chosen to provide a clear view of the pandemic's critical growth phase, emphasizing data integrity and minimizing the influence of data gaps.
+
 
 ### Country Exclusion Criteria:
 
 Countries missing data for more than 10% of the period were excluded to ensure robust analysis.
 
-### Rationale:
-
-The data range was chosen to provide a clear view of the pandemic's critical growth phase, emphasizing data integrity and minimizing the influence of data gaps.
 
 ### Limitations:
 
