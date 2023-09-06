@@ -93,13 +93,11 @@ Data visualization using the Tableau dashboard, [The Global COVID-19 Landscape: 
 
 ### Tableau Visualization
 
-- **Temporal Growth of Cases and Deaths:** Over time, there was a clear increase in the average total cases and deaths per million people. This trend highlights the pandemic's escalating severity as it spread across different regions and countries.
+- **Growth of Cases and Deaths:** Over time, there was a clear increase in the average total cases and deaths per million people. This trend highlights the pandemic's escalating severity as it spread across different regions and countries.
 
 - **Impact of Stringency Index:** A noticeable trend emerged correlating the average stringency index with the average total cases and deaths per million people. Specifically, lenient measures seemed to lead to surges in cases and deaths, while stricter measures often resulted in a slower growth rate of these metrics.
 
 - **Geographical Trends:** It became evident that breaking down the data by continent offered clearer insights. This is attributed to the geographical, socio-political, and cultural differences affecting the pandemic's spread and management in various regions. For instance, Europe experienced larger spikes early on compared to other continents, while Oceanian countries, with the exception of Australia, managed to keep the initial stages of the pandemic relatively under control.
-
-_It is crucial to note that testing and reporting strategies vary significantly from country to country. This could have influenced the observed data and is an essential factor to consider when interpreting the results._
 
 ### Python Analysis
 
@@ -121,7 +119,7 @@ _It is crucial to note that testing and reporting strategies vary significantly 
     - Tableau visualizations required selective inclusion of variables to avoid visual clutter.
 
 5. **Correlation Does Not Imply Causation:** 
-    - All findings should be interpreted with caution. The correlations observed might be influenced by external factors or unaccounted variables.
+    - All findings should be interpreted with caution. The correlations observed might be influenced by external factors or unaccounted variables. For instance, testing and reporting strategies vary significantly from country to country and could significantly impact the analysis.
 
 
 ## Suggested Improvements
