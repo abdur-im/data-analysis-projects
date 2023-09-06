@@ -101,6 +101,25 @@ Data visualization using the Tableau dashboard, [The Global COVID-19 Landscape: 
 
 ### Python Analysis
 
+#### Spearman Rank Correlation Analysis:
+In order to assess potential non-linear relationships between the various mitigation strategies and the growth rate of COVID-19 cases and deaths, we used Spearman rank correlations. The measures investigated include the stringency index, restrictions on internal movements, controls on international travel, restrictions on gatherings, school closures, stay-home requirements, and workplace closures. Key findings are:
+
+- `Restriction on Gatherings` showed a strong positive correlation with new deaths per million (0.84). Similarly, it had a significant correlation with new cases per million (0.77).
+  
+- `Stay Home Requirements` demonstrated a notable correlation with both new deaths per million (0.77) and new cases per million (0.70).
+
+- `Restrictions on Internal Movements` and `Workplace Closures` also depicted notable positive correlations with the trends of new cases and deaths per million.
+
+
+#### Aggregated Analysis by Continent:
+An aggregated analysis by continent was conducted to understand the average measures and COVID trends on a broader geographical scale. Highlights are:
+
+- `South America` observed the highest stringency index (64.94) and recorded the highest new cases and deaths per million, with 43.23 and 1.98 respectively.
+
+- `Oceania`, apart from Australia, recorded the lowest average stringency index (42.61) and also had the least new cases and deaths per million, supporting our earlier observation that these countries managed the initial stages of the pandemic efficiently.
+
+- `Europe` and `North America`, despite having varying stringency indexes, both observed significant new cases per million with Europe at 18.86 and North America at 26.73. Their deaths per million were also considerable with values of 0.85 and 0.83 respectively.
+
 
 
 ## Challenges
