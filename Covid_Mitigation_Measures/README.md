@@ -162,4 +162,4 @@ An aggregated analysis by continent was conducted to understand the average meas
 
 ## Conclusion
 
-Analyzing and understanding the effectiveness of different COVID-19 mitigation strategies is crucial for policymakers and public health officials, especially when preparing for future outbreaks or virus variants. 
+Reflecting on the COVID-19 pandemic, the analysis of different mitigation strategies' effectiveness is invaluable. The insights provide critical lessons for policymakers and public health officials, preparing them for potential future health crises. Understanding the impacts of our past actions is pivotal in anticipating and shaping future responses.
