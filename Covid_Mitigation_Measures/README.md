@@ -110,6 +110,15 @@ In order to assess potential non-linear relationships between the various mitiga
 
 - `Restrictions on Internal Movements` and `Workplace Closures` also depicted notable positive correlations with the trends of new cases and deaths per million.
 
+#### Relationship between Stringency Index and Mortality:
+Analysis of the relationship between the Stringency Index and New Deaths per Million across different continents yielded varied insights:
+
+- Some continents exhibited a significant negative correlation between stringency measures and deaths, suggesting that where stricter measures were in place, fewer deaths were reported.
+
+- Contrarily, other regions showed no clear correlation, suggesting potential external influences or policy enforcement disparities.
+
+- Europe the was only continent to present a weak positive correlation. This could hint at possible delayed effects of stringent measures, or that these measures were reactionary to escalating situations rather than preventive.
+
 
 #### Aggregated Analysis by Continent:
 An aggregated analysis by continent was conducted to understand the average measures and COVID trends on a broader geographical scale. Highlights are:
