@@ -84,30 +84,56 @@ EDA was conducted using Python, followed by merging datasets and constructing ti
 
 ### Tableau Visualization:
 Data visualization using the Tableau dashboard, [The Global COVID-19 Landscape: Metrics and Measures](https://public.tableau.com/views/TheGlobalCOVID-19LandscapeMetricsandMeasures/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link), highlights the following: 
-   - World Map: Displaying country policy stringency and demographics.
+   - World Map: Displaying country policy stringency and several key demographics.
    - Pie Charts: Distribution of various mitigation strategies across regions.
    - Time Series Analysis: Visualizing and comparing the growth of cases and deaths over time among countries.
 
 ## Discussion & Results
 
-### World Map Analysis:
-Tableau's world map was employed to understand the geographical spread and intensity of cases.
 
-### Pie Charts:
-Pie charts created in Tableau helped visualize the distribution of different mitigation strategies across various countries and regions.
+### Tableau Dashboard
 
-### Time Series Analysis:
-Tableau's time series charts provided insights into the timeline of the pandemic, showcasing spikes in cases and deaths against the backdrop of different mitigation strategies.
+- **Temporal Growth of Cases and Deaths:** Over time, there was a clear increase in the average total cases and deaths per million. This rise was punctuated by noticeable spikes, likely influenced by a variety of factors including mitigation strategies and public behavior.
+
+- **Impact of Stringency Index:** A noticeable trend emerged correlating the average stringency index with the average total cases and deaths per million. Specifically, lenient measures seemed to lead to surges in cases and deaths, while stricter measures often resulted in a slower growth rate of these metrics.
+
+- **Geographical Trends:** It became evident that breaking down the data by continent offered clearer insights. This is attributed to the geographical, socio-political, and cultural nuances affecting the pandemic's spread and management in different regions. For instance, Europe experienced larger spikes early on compared to other continents, while Oceanian countries, with the exception of Australia, managed to keep the initial stages of the pandemic relatively under control.
+
+- **Consideration for Testing Strategies:** It's imperative to note that testing and reporting strategies varied significantly from country to country. This could have influenced the observed data and is an essential factor to consider when interpreting the results.
+
+### Python Analysis
+
 
 
 ## Challenges
 
-Choosing the right correlation method, interpreting heatmaps, potential visual overload, missing countries, and balancing the number of variables were all challenges faced during the project. Since correlation does not imply causation, the findings are associations and not causative factors
+1. **Choosing the Appropriate Correlation Method:** 
+    - Python offers multiple statistical methods, making selection challenging.
+
+2. **Potential Visual Overload:** 
+    - Tableau's dynamic visual capabilities risked over-complication, requiring informed design decisions.
+
+3. **Missing Countries:** 
+    - Data gaps during SQL preprocessing affected the project's overall scope.
+
+4. **Balancing the Number of Variables:** 
+    - Python provided extensive data processing options, but selecting the most relevant variables was crucial.
+    - Tableau visualizations required selective inclusion of variables to avoid visual clutter.
+
+5. **Correlation Does Not Imply Causation:** 
+    - All findings should be interpreted with caution. The correlations observed might be influenced by external factors or unaccounted variables.
+
 
 ## Suggested Improvements
 
-Improvement in SQL data cleaning could be achieved in pgAdmin by scripting repetitive queries in Python. Conducting further rigorous statistical testing to draw reliable and firm conclusions.
+1. **Enhancing SQL Data Cleaning in pgAdmin:** 
+    - Python scripting can be integrated for automating repetitive SQL queries, enhancing the data cleaning process.
+
+2. **Conducting Rigorous Statistical Testing:** 
+    - While Python provided robust tools for analysis, the next steps involve deeper statistical testing.
+    - Leveraging more advanced features in libraries like `scipy.stats` can further validate the conclusions.
+
 
 ## Conclusion
 
-Understanding the effectiveness of different COVID-19 mitigation strategies is crucial for policymakers and public health officials, especially when preparing for future outbreaks or virus variants.
+Analyzing and understanding the effectiveness of different COVID-19 mitigation strategies is crucial for policymakers and public health officials, especially when preparing for future outbreaks or virus variants. 
