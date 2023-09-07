@@ -27,7 +27,7 @@ This repository contains multiple data analysis projects, each diving deep into 
 
 - **Objective**: Investigate the relationships between various life satisfaction aspects and perceived mental health among Canadian youth.
   
-- **Data Source**: The Canadian Community Health Survey (CCHS) 2017-2018, accessible [here](CCHS.csv).
+- **Data Source**: The Canadian Community Health Survey (CCHS) 2017-2018, accessible [here](https://github.com/abdur-im/data-analysis-projects/blob/main/Life_Satisfactions_and_Mental_Health/CCHS.csv).
   
 - **Key Findings**: Identified associations between levels of satisfaction in housing, body image, financial circumstances, interpersonal relationships, and perceived mental health. Further segmented data revealed nuanced findings based on household income and gender.
   
