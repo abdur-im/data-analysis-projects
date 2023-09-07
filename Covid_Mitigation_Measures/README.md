@@ -103,7 +103,7 @@ In order to assess potential non-linear relationships between the various mitiga
 - `Restrictions on Internal Movements` and `Workplace Closures` also depicted notable positive correlations with the trends of new cases and deaths per million.
 
 #### Relationship between Stringency Index and Mortality:
-Analysis of the relationship between the Stringency Index and New Deaths per Million across different continents yielded varied insights:
+Scatterplot between the Stringency Index and New Deaths per Million across different continents yielded varied insights:
 
 - Some continents exhibited a significant negative correlation between stringency measures and deaths, suggesting that where stricter measures were in place, fewer deaths were reported.
 
@@ -117,7 +117,7 @@ An aggregated analysis by continent was conducted to understand the average meas
 
 - `South America` observed the highest stringency index (64.94) and recorded the highest new cases and deaths per million, with 43.23 and 1.98 respectively.
 
-- `Oceania`, apart from Australia, recorded the lowest average stringency index (42.61) and also had the least new cases and deaths per million, supporting our earlier observation that these countries managed the initial stages of the pandemic efficiently.
+- `Oceania` recorded the lowest average stringency index (42.61) and also had the least new cases and deaths per million, indicating that these countries managed the initial stages of the pandemic efficiently.
 
 - `Europe` and `North America`, despite having varying stringency indexes, both observed significant new cases per million with Europe at 18.86 and North America at 26.73. Their deaths per million were also considerable with values of 0.85 and 0.83 respectively.
 
